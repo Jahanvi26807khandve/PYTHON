@@ -1,7 +1,7 @@
 # Arithmetic Operators
 a = 7
 b = 4
-c = a + b
+c = a + b               #OPERATORS AND THERE TYPES
 print(c)
 
 # Assignment Operators
